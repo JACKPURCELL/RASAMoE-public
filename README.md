@@ -1,4 +1,9 @@
 ## RASA: Routing-Aware Safety Alignment for Mixture-of-Experts Models
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-2602.04448-b31b1b.svg)](https://arxiv.org/abs/2602.04448)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4.svg)](https://scholar.google.com/citations?user=Qsp7ts0AAAAJ)
+
 ![](./fig.png)
 ### TL;DR
 
