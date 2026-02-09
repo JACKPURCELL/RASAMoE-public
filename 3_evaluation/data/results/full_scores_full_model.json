@@ -1,0 +1,28 @@
+{
+    "strongreject": {
+        "safety_rate": 0.96
+    },
+    "xstest": {
+        "avg_score": 0.55,
+        "incorrect_refusal_rate": 0.7758620689655172,
+        "correct_refusal_rate": 1.0,
+        "safe_samples": 58,
+        "unsafe_samples": 42,
+        "total_samples": 100
+    },
+    "truthfulqa": {
+        "truthful_rate": 0.43
+    },
+    "mmlu": {
+        "avg_score": 0.30434782608695654,
+        "total_samples": 100,
+        "valid_samples": 23,
+        "skipped_samples": 77
+    },
+    "gsm8k": {
+        "avg_score": 0.33,
+        "total_samples": 100,
+        "valid_samples": 100,
+        "skipped_samples": 0
+    }
+}
